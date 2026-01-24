@@ -1,0 +1,22 @@
+.success {
+    background-color: green;
+    padding: 15px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.error {
+    background-color: red;
+    padding: 15px;
+}
+
+.warning {
+    background-color: darkgoldenrod;
+    padding: 15px;
+    margin-left: 20px;
+}
+
+.alert {
+    margin-left: 20px;
+    margin-top: 20px;
+}

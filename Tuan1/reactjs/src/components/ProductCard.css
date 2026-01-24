@@ -1,0 +1,33 @@
+img {
+    width: 300px;
+    height: auto;
+}
+
+.product-card {
+    width: 320px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+}
+
+p {
+    margin-top: 20px;
+}
+
+button {
+    width: 100px;
+    padding: 15px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+}
