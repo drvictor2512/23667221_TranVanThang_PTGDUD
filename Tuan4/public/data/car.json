@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Model S",
+      "hang": "Tesla",
+      "gia": 89999,
+      "quoc_gia": "Mỹ"
+    },
+    {
+      "id": 2,
+      "name": "Mustang GT",
+      "hang": "Ford",
+      "gia": 55999,
+      "quoc_gia": "Mỹ"
+    },
+    {
+      "id": 3,
+      "name": "Civic",
+      "hang": "Honda",
+      "gia": 23999,
+      "quoc_gia": "Nhật Bản"
+    },
+    {
+      "id": 4,
+      "name": "Corolla",
+      "hang": "Toyota",
+      "gia": 21999,
+      "quoc_gia": "Nhật Bản"
+    },
+    {
+      "id": 5,
+      "name": "A4",
+      "hang": "Audi",
+      "gia": 39999,
+      "quoc_gia": "Đức"
+    },
+    {
+      "id": 6,
+      "name": "3 Series",
+      "hang": "BMW",
+      "gia": 41999,
+      "quoc_gia": "Đức"
+    },
+    {
+      "id": 7,
+      "name": "Golf",
+      "hang": "Volkswagen",
+      "gia": 27999,
+      "quoc_gia": "Đức"
+    },
+    {
+      "id": 8,
+      "name": "C-Class",
+      "hang": "Mercedes-Benz",
+      "gia": 43999,
+      "quoc_gia": "Đức"
+    },
+    {
+      "id": 9,
+      "name": "Accord",
+      "hang": "Honda",
+      "gia": 25999,
+      "quoc_gia": "Nhật Bản"
+    },
+    {
+      "id": 10,
+      "name": "Camry",
+      "hang": "Toyota",
+      "gia": 24999,
+      "quoc_gia": "Nhật Bản"
+    }
+  ]
